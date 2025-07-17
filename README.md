@@ -18,3 +18,5 @@ Components of the FABRIC robot:
 (c) Finger movement servos mounted inside the upper arm  
 (d) Elbow and wrist joint  
 (e) Robotic hand
+
+## Design Files and Toolkit are coming soon.
