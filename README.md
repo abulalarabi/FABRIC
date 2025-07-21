@@ -92,3 +92,10 @@ Components of the FABRIC robot:
     <td></td>
   </tr>
 </table>
+
+## Firmware
+Arduino firmware for ESP32
+
+## Frontend
+
+## Backend
