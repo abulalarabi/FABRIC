@@ -1,3 +1,5 @@
+# **FABRIC**: <u>FA</u>bricating <u>B</u>odily-Expressive <u>R</u>obots for <u>I</u>nclusive and Low-<u>C</u>ost Design
+
 ## Abstract
 Sign language is a vital visual-manual communication method for individuals with hearing impairments, yet current robotic systems remain expensive and technically inaccessible for embodied interaction. We present **FABRIC**, a low-cost, end-to-end toolkit that enables users to 3D print expressive robots and program bodily language through learning-from-demonstration. FABRIC supports upper-torso motion replication using video input and offers an intuitive visual programming interface, lowering barriers to designing embodied, communicative robots for diverse applications.
 
