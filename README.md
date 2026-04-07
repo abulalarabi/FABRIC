@@ -8,7 +8,17 @@ Sign language is a vital visual-manual communication method for individuals with
 </p>
 
 ## Paper Citation
-BIBTEX coming soon.
+@INPROCEEDINGS{11247443,
+  author={Arabi, Abul Al and Kim, Jeeeun},
+  booktitle={2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+  title={FABRIC: FAbricating Bodily-Expressive Robots for Inclusive and Low-Cost Design}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1139-1146},
+  keywords={Humanoid robot, Sign language robot, 3D Printing, Pose Estimation, Learningfromdemonstration},
+  doi={10.1109/IROS60139.2025.11247443}}
+
 
 ## System Overview
 
